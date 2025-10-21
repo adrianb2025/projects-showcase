@@ -24,5 +24,5 @@ give it a realistic scope I could work with. I found some nice pixel art assets 
 <img width="478" height="360" alt="bulldozer" src="https://github.com/user-attachments/assets/7a47f1bd-cfb3-4b09-be5e-4968efa37675" />
 
 ## Jump
-<p>This is the latest game project I made. It is essentially a frogger-like game that has a bossfight in the end. It does have a little story, however, that story is not that good.</p>
+<p>This is the latest game project I made. It is essentially a frogger-like game that has a bossfight in the end. It does have a little story, however, that story is not that good. For the record, I did not make the sprites of the game. I only made the font</p>
 <img width="475" height="714" alt="jump" src="https://github.com/user-attachments/assets/381fe86a-d05f-4d2a-b1f5-6cbba0dd14c4" />
