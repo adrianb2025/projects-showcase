@@ -17,5 +17,5 @@ give it a realistic scope I could work with. I found some nice pixel art assets 
 <img width="956" height="716" alt="realms" src="https://github.com/user-attachments/assets/84cdad50-3b7e-480d-a67b-44f5e79fc493" />
 
 ## Bulldozer
-This is a remake of the 1994 game, Bulldozer. In this particular remake, you play as a rabbit that has to push carrots into holes.
+This is a remake of the 1994 game, Bulldozer, however, instead of playing as a bulldozer, you play as a rabbit that has to push carrots into holes.
 <img width="478" height="360" alt="bulldozer" src="https://github.com/user-attachments/assets/7a47f1bd-cfb3-4b09-be5e-4968efa37675" />
