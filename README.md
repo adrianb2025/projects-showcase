@@ -16,7 +16,7 @@ give it a realistic scope I could work with. I found some nice pixel art assets 
 <img width="956" height="716" alt="realms" src="https://github.com/user-attachments/assets/84cdad50-3b7e-480d-a67b-44f5e79fc493" />
 
 ## Phantom Busters
-<p>The first failed attempt at making a fun little game. Halfway through development I realized that the scope of this game was too large so I originally wanted to put it on hold temporarily. The original idea of this game was that there were going to be multiple large levels where you and a crew of people(a reverend, a retail worker, and an average joe) had to survive a group of evil phantoms. I halfway realized that the game wasn't fun so I stopped working on it.</p>
+<p>The first failed attempt at making a fun little game. Halfway through development I realized that the scope of this game was too large so I originally wanted to put it on hold temporarily. The original idea of this game was that there were going to be multiple large levels where you and a crew of people(a reverend, a retail worker, and an average joe) had to survive a group of evil phantoms. I later realized that the game wasn't fun so I stopped working on it.</p>
 <img width="637" height="478" alt="phantom-hunters" src="https://github.com/user-attachments/assets/26dc3332-5e74-4da8-944c-9910a7cad827" />
 
 ## Bulldozer
