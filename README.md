@@ -3,6 +3,7 @@ This repository contains several of my projects that I made in my spare time. Mo
 
 # Particle System
 I created a simple yet cool particle system which follows the mouse and changes color when you click with the mouse. This was a project to learn about bitmaps primarily.
+
 <img width="714" height="536" alt="particle-system" src="https://github.com/user-attachments/assets/5ce5222b-36d9-4993-b4b1-8ec7acb73b79" />
 
 # Grid Pacer
