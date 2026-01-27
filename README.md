@@ -25,7 +25,7 @@ Here is a small selection of screenshots, alongside a description, for some of t
 <img width="637" height="478" alt="PhantomBustersPreview" src="https://github.com/user-attachments/assets/5bae38f2-a2d9-4744-9e22-9e31c9f838dc" />
 
 # Screenshots - Python
-I have previously worked with Python. 
+I have previously dabbled into Python in an effort to learn modules like pygame, asyncio, and numpy. I previously created simple games using pygame, however, those projects have been lost. Additionally, my interest for python originally fell short, however, I slowly came back to it in an effort to automate manual tasks that are extremely boring. I still intend on using the aforementioned modules, however, expect most of those projects to allow for automation to occur.  
 
 <h2>Audio Slicer</h2>
 <p>This is a small and handy tool that had a very simple intent: to x amount of audio files based on the duration of the audio file. I created this because I found the process of manually slicing audio to be tedious, and thus, this tool was born as an excuse.</p>
