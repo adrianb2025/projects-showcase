@@ -28,5 +28,5 @@ Here is a small selection of screenshots, alongside a description, for some of t
 I have previously dabbled into Python in an effort to learn modules like pygame, asyncio, and numpy. I previously created simple games using pygame, however, those projects have been lost. Additionally, my interest for python originally fell short, however, I slowly came back to it in an effort to automate manual tasks that are extremely boring. I still intend on using the aforementioned modules, however, expect most of those projects to allow for automation to occur.  
 
 <h2>Audio Slicer</h2>
-<p>This is a small and handy tool that had a very simple intent: to x amount of audio files based on the duration of the audio file. I created this because I found the process of manually slicing audio to be tedious, and thus, this tool was born as an excuse.</p>
+<p>This is a small and handy tool that had a very simple intent: to slice into x amount of files based on the duration of the base audio file. I created this because I found the process of manually slicing audio to be tedious, and thus, this tool was born as an excuse.</p>
 <img width="594" height="409" alt="image" src="https://github.com/user-attachments/assets/ad366098-2e1d-4256-aa6e-5fb383efd739" />
