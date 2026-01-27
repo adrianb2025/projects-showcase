@@ -23,3 +23,10 @@ Here is a small selection of screenshots, alongside a description, for some of t
 <h2>Phantom Busters</h2>
 <p>Originally titled "Retribution", I decided to make a game where you hunt phantoms. I originally inteded for this to be a parody of ghostbusters but with characters that got different attributes. Unfortunately, this project was later scrapped</p>
 <img width="637" height="478" alt="PhantomBustersPreview" src="https://github.com/user-attachments/assets/5bae38f2-a2d9-4744-9e22-9e31c9f838dc" />
+
+# Screenshots - Python
+I have previously worked with Python. 
+
+<h2>Audio Slicer</h2>
+<p>This is a small and handy tool that had a very simple intent: to x amount of audio files based on the duration of the audio file. I created this because I found the process of manually slicing audio to be tedious, and thus, this tool was born as an excuse.</p>
+<img width="594" height="409" alt="image" src="https://github.com/user-attachments/assets/ad366098-2e1d-4256-aa6e-5fb383efd739" />
