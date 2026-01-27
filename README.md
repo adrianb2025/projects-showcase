@@ -30,3 +30,6 @@ I have previously dabbled into Python in an effort to learn modules like pygame,
 <h2>Audio Slicer</h2>
 <p>This is a small and handy tool that had a very simple intent: to slice into x amount of files based on the duration of the base audio file. I created this because I found the process of manually slicing audio to be tedious, and thus, this tool was born as an excuse.</p>
 <img width="594" height="409" alt="image" src="https://github.com/user-attachments/assets/ad366098-2e1d-4256-aa6e-5fb383efd739" />
+<p>Requirements:</p>
+<li>pydub</li>
+<li>Python 3.12</li>
