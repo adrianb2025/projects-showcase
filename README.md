@@ -1,4 +1,4 @@
-# About
+# Project Showcase - About
 <p>This repository contains projects I have made in my spare time</p>
 
 # Screenshots - Java 
