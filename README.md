@@ -3,7 +3,7 @@
 <p>The goal of this repository is to showcase projects I have worked on in the past regardless if they are old or new. The intent of each project to show off game prototypes, game mechanics, web-based projects, and tools</p>
 
 <h1>Projects - Java</h1>
-Here is a selection of java projects I have worked on in the past as well as some recent ones as well. All of these game prototypes are playable, however, you will have to build their jarfiles on your own as I was too lazy to provide those. Some of these projects are loosely based on games made by <a href="https://github.com/xnotch">Notch</a> if I recall correctly, however, they are they are completely rewritten to maintain their originality(For example, the mosaic pixel art displayed in the <b>Phantom Busters</b> screenshot or the minimap and weather system displayed in the <b>Realms</b> screenshot). The four projects that are completely original are Jump, Puzzle, and Bulldozer(not displayed here).
+Here is a selection of java projects I have worked on in the past as well as some recent ones as well. All of these game prototypes are playable, however, you will have to build their jarfiles on your own as I was too lazy to provide those. Some of these projects are loosely based on games made by <a href="https://github.com/xnotch">Notch</a> if I recall correctly, however, they are completely rewritten to maintain their originality(For example, the mosaic pixel art displayed in the <b>Phantom Busters</b> screenshot or the minimap and weather system displayed in the <b>Realms</b> screenshot). The four projects that are completely original are Jump, Puzzle, and Bulldozer(not displayed here).
 
 ---
 
